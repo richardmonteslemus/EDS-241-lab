@@ -2,8 +2,9 @@
 title: "Lab Week 4: Statistical Matching + Fixed Effects"
 subtitle: "A replication of study analysis in Ahmadia (2015)"
 author: "EDS 241 / ESM 244"
-format:
-  html:
+format: 
+  pdf: default
+  html: 
     theme: sketchy
     css: styles.css
 date: "January 29, 2026"
